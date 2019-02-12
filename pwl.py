@@ -1,4 +1,4 @@
-print("\n\n\nHey! \nThis program can make you a password list.\nUp to 50 keys can be used.\nAll passwords will be saved in the documen passwords.txt in the same directory. \nVersion: 0.1\n\n28.12.2018/zahm\n\n\n")
+print("\n\n\nHey! \nThis program can make you a password list.\nUp to 50 keys can be used.\nAll passwords will be saved in the document passwords.txt in the same directory. \nVersion: 0.2\n\n12.02.2019/zahm\n\n\n")
 a=["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]
 i=0
 l = open('passwords.txt', 'w')
